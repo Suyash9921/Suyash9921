@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Suyash9921
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Java 
-- 💞️ I’m looking to collaborate on Java Projects 
+- 👀 I’m a professional Software Engineer
 - 📫 How to reach me - bhadani.suyash3@gmail.com
 
 <!---
